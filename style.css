@@ -1,0 +1,19 @@
+
+  		p#important, h1#important {
+  			color: blue;
+  			background-color: red;
+  		}
+
+  		.original {
+  			font-size: 40px
+  		}
+
+  		.new{
+  			text-decoration: underline;
+  		}
+
+  		#box {
+  			padding :50px;
+  			border: 10px solid red; 
+  			margin: 100px;
+  		}
